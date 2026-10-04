@@ -11,7 +11,7 @@ Engenheiro back-end com foco em **dados**. Construo APIs, pipelines e sistemas q
 ## Stack
 
 **Back-end** &nbsp;
-<img src="https://skillicons.dev/icons?i=python,nodejs,ts&theme=dark" height="32" />
+<img src="https://skillicons.dev/icons?i=python,javascript,ts&theme=dark" height="32" />
 
 **Dados** &nbsp;
 <img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark" height="32" />
